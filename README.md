@@ -1,4 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Chad Clifton 
+🎓 Software Engineering Student at Belgium Campus iTversity
+🌱 Passionate about Prgramming, IoT, Sustainable Tech and Videogames!
+💼 Seeking internship/graduate opportunities in software development 
+
+🚀 Skills
+o    Programming: C#, Java, JavaScript, SQL, HTML/CSS
+o    Tools: Git, Arduino, TinkerCAD
+<!-- o    Cloud: AWS -->
+
+📄 CV 
+link: https://chadclifton.github.io/Online-CV/
+
+📫 How to reach me:
+- Email: chadcvm@gmail.com
+- LinkedIn: http://www.linkedin.com/in/chad-clifton-9a5bba347
+
+<!--⚡ Fun fact:
+
+-->
 
 <!--
 **ChadClifton/ChadClifton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
