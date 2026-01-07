@@ -6,7 +6,7 @@
 💼 Seeking internship/graduate opportunities in software development 
 
 🚀 Skills
--   Programming: C#, Java, JavaScript, SQL, HTML/CSS
+-   Programming: C#, JavaScript, Java, SQL, HTML/CSS
 -    Tools: Git, Arduino, TinkerCAD
 <!-- o    Cloud: AWS -->
 
