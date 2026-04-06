@@ -1,13 +1,11 @@
 ## 👋 Hi there, I'm Chad Clifton 
 🎓 Software Engineering Student at Belgium Campus iTversity
 
-🌱 Passionate about Prgramming, IoT, Sustainable Tech and Videogames!
-
-💼 Seeking internship/graduate opportunities in software development 
+🌱 Passionate about Prgramming, IoT, Sustainable Tech and Videogames! 
 
 🚀 Skills
 -   Programming: C#, JavaScript, Java, SQL, HTML/CSS
--    Tools: Git, Arduino, TinkerCAD
+-    Tools: Git, Arduino, TinkerCAD, Webflow, WordPress
 <!-- o    Cloud: AWS -->
 
 📄 CV 
